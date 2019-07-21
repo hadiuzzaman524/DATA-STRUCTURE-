@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553850224 source:e:\data structure and algorithm\implumentation of algorithm\exercise\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556598465 source:e:\data structure and algorithm\implumentation of algorithm\stack hakerrank\main.cpp
+	<iostream>
+	<stack>
+

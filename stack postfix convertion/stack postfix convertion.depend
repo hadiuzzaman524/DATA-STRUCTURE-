@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554807080 source:e:\data structure and algorithm\implumentation of algorithm\stack postfix convertion\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

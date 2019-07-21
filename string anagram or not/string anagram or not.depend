@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551839037 source:e:\data structure and algorithm\string anagram or not\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1551009998 source:e:\data structure and algorithm\common pattarn\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1555212737 source:e:\data structure and algorithm\implumentation of algorithm\common pattarn\main.cpp
+	<iostream>
+	<string.h>
+

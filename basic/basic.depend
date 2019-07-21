@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553513129 source:c:\users\asus\desktop\basic\src\student.cpp
+
+1553512669 c:\users\asus\desktop\basic\include\student.h
+
+1553513077 source:c:\users\asus\desktop\basic\main.cpp
+	<iostream>
+

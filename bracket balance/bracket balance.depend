@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556601296 source:e:\data structure and algorithm\implumentation of algorithm\bracket balance\main.cpp
+	<iostream>
+	<stack>
+

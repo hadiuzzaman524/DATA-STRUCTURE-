@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556370700 source:e:\data structure and algorithm\implumentation of algorithm\check bst\main.cpp
+	<iostream>
+	<vector>
+

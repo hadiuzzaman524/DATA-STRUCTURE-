@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1562155223 source:e:\data structure and algorithm\implumentation of algorithm\stack postfix\main.cpp
+	<iostream>
+	<string.h>
+	<stack>
+
+1553686915 source:c:\users\asus\desktop\stack postfix\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+

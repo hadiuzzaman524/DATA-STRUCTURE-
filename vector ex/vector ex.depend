@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554812467 source:e:\data structure and algorithm\implumentation of algorithm\vector ex\main.cpp
+	<iostream>
+	<vector>
+

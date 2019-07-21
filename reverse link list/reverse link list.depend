@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549734243 source:e:\data structure and algorithm\reverse link list\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

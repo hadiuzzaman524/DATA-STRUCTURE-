@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1551837914 source:e:\data structure and algorithm\string palindrome or not\main.cpp
+	<iostream>
+	<cstring>
+
+1551837914 source:e:\data structure and algorithm\implumentation of algorithm\string palindrome or not\main.cpp
+	<iostream>
+	<cstring>
+
